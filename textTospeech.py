@@ -1,5 +1,5 @@
-//google text to speech API
-//Author : Shashwat Vaibhav
+#google text to speech API
+#Author : Shashwat Vaibhav
 from gtts import gTTS
 import os
 
